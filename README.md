@@ -1,5 +1,9 @@
 # GreenGuile
 
+<p align="center">
+   <img width="500" height="500" alt="GreenGuile" src="https://github.com/user-attachments/assets/dee0ad2b-74b2-426a-9620-4644ab7774bd" />
+</p>
+
 GreenGuile is a Python lightweight solution that runs on microcontrollers to acoustically deter agricultural pests using learned predator sound patterns from local bird datasets, replacing chemical pesticides.
 
 ## Features
