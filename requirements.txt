@@ -1,0 +1,12 @@
+# GreenGuile Requirements
+
+# For sound generation (in a full implementation)
+# pygame
+# pyaudio
+
+# For SMS handling (in a full implementation)
+# twilio
+# python-gsmmodem
+
+# For configuration
+# No external dependencies needed for basic JSON config

@@ -1,0 +1,10 @@
+{
+  "sound_interval": 300,
+  "volume": 80,
+  "active_hours": {
+    "start": "06:00",
+    "end": "18:00"
+  },
+  "season": "spring",
+  "phone_number": "+1234567890"
+}
